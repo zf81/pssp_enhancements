@@ -1,4 +1,4 @@
-USE `patient_portal_assignment`;
+USE `patient_portal`;
 
 CREATE TABLE IF NOT EXISTS `production_accounts` (
 	`id` int(11) NOT NULL AUTO_INCREMENT,
